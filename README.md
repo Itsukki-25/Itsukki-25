@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B868D9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+ISABELA+MAGESTE;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Itsukki-25&bg_color=0d1117&color=B868D9&line=B07FF0&point=7785F8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Itsukki-25&show_icons=true&count_private=true&hide_border=true&title_color=B868D8&icon_color=7785F&text_color=c9d1d9&bg_color=0d1117" alt="Isabela Mageste github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsukki-25&layout=compact&hide_border=true&title_color=B868D9&text_color=ff91a4&bg_color=0d1117" />
